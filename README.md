@@ -41,6 +41,28 @@ STAR BOOKS는 현대인들의 감정 케어를 위한 올인원 플랫폼입니�
     - 사용자 업로드 이미지 기반 별자리 생성
     - 저장 후 3D로 돌아가는 별자리 감상
 
+## 💻 화면
+### 1. 메인화면
+![MainPage](./exec/example/MainPage.webp)
+### 2. 회원가입
+![SignUp](./exec/example/SignUp.webp)
+### 3-1. 일반로그인
+![Login](./exec/example/Login.webp)
+### 3-2. Oauth 로그인
+![OauthLogin](./exec/example/OauthLogin.webp)
+### 4. 일기 작성
+![WriteDiary](./exec/example/WriteDiary.webp)
+### 5-1. 나의 별자리 편집
+![EditMyUniverse](./exec/example/EditMyUniverse.webp)
+### 5-2. 나읩 별자리 보기
+![MyUniverse](./exec/example/MyUniverse.webp)
+### 6. AI 대화
+![ChatBot](./exec/example/ChatBot.webp)
+### 7. AI 별자리
+![AIUniverse](./exec/example/AIUniverse.webp)
+### 8. 우리의 우주
+![OurUniverse](./exec/example/OurUniverse.webp)
+
 ## 🛠️ 기술 스택
 
 ### 💻 프론트엔드
