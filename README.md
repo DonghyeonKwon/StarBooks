@@ -43,25 +43,35 @@ STAR BOOKS는 현대인들의 감정 케어를 위한 올인원 플랫폼입니�
 
 ## 💻 화면
 ### 1. 메인화면
-![MainPage](./exec/example/MainPage.gif)
+<img src="./exec/example/MainPage.webp" width="600">
+
 ### 2. 회원가입
-![SignUp](./exec/example/SignUp.gif)
+<img src="./exec/example/SignUp.webp" width="600">
+
 ### 3-1. 일반로그인
-![Login](./exec/example/Login.gif)
+<img src="./exec/example/Login.webp" width="600">
+
 ### 3-2. Oauth 로그인
-![OauthLogin](./exec/example/OauthLogin.gif)
+<img src="./exec/example/OauthLogin.webp" width="600">
+
 ### 4. 일기 작성
-![WriteDiary](./exec/example/WriteDiary.gif)
+<img src="./exec/example/WriteDiary.webp" width="600">
+
 ### 5-1. 나의 별자리 편집
-![EditMyUniverse](./exec/example/EditMyUniverse.gif)
-### 5-2. 나읩 별자리 보기
-![MyUniverse](./exec/example/MyUniverse.gif)
+<img src="./exec/example/EditMyUniverse.webp" width="600">
+
+### 5-2. 나의 별자리 보기
+<img src="./exec/example/MyUniverse.webp" width="600">
+
 ### 6. AI 대화
-![ChatBot](./exec/example/ChatBot.gif)
+<img src="./exec/example/ChatBot.webp" width="600">
+
 ### 7. AI 별자리
-![AIUniverse](./exec/example/AIUniverse.gif)
+<img src="./exec/example/AIUniverse.webp" width="600">
+
 ### 8. 우리의 우주
-![OurUniverse](./exec/example/OurUniverse.gif)
+<img src="./exec/example/OurUniverse.webp" width="600">
+
 
 ## 🛠️ 기술 스택
 
